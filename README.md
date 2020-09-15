@@ -1,7 +1,7 @@
 # random
 
 ### Kafka
-  1. [Hello World In Kafka Using Python](https://timber.io/blog/hello-world-in-kafka-using-python/)
+  - [Hello World In Kafka Using Python](https://timber.io/blog/hello-world-in-kafka-using-python/)
  
 
 ### System Design
@@ -14,3 +14,9 @@
   - [Proxy vs. Reverse Proxy (Explained by Example)](https://www.youtube.com/watch?v=ozhe__GdWC8)
   - [Stateful vs Stateless Applications (Explained by Example)](https://www.youtube.com/watch?v=nFPzI_Qg3FU)
   - [Low level design primer](https://github.com/prasadgujar/low-level-design-primer)
+  - [When to use HTTP GET vs POST?](https://www.youtube.com/watch?v=K8HJ6DN23zI)
+  - [Sql Injection Explained by Example with Express and PostgreSQL](https://www.youtube.com/watch?v=Azo9tDUtC9s)
+  - [HTTP Cookies Crash Course](https://www.youtube.com/watch?v=sovAIX4doOE)
+  - [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI)
+  - [TCP vs UDP Crash Course](https://www.youtube.com/watch?v=qqRYkcta6IE&t=220s)
+  - [Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
