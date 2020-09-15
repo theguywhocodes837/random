@@ -20,3 +20,7 @@
   - [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI)
   - [TCP vs UDP Crash Course](https://www.youtube.com/watch?v=qqRYkcta6IE&t=220s)
   - [Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
+
+
+### Trees
+  - [Test If A Binary Tree Is Height Balanced](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Balanced Binary Tree - Leetcode](https://leetcode.com/problems/balanced-binary-tree/)
