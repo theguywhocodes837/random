@@ -23,6 +23,7 @@
   - [HOW HTTPS WORKS](https://howhttps.works/)
   - [A fun and colorful explanation of how DNS works](https://howdns.works/)
   - [UDP vs. TCP](https://gafferongames.com/post/udp_vs_tcp/)
+  - [Best Practices Working with Billion-row Tables in Databases](https://www.youtube.com/watch?v=wj7KEMEkMUE)
 
 
 ### Trees
