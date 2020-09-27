@@ -26,6 +26,7 @@
   - [Best Practices Working with Billion-row Tables in Databases](https://www.youtube.com/watch?v=wj7KEMEkMUE)
   - [Database Engineering](https://www.youtube.com/playlist?list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2)
   - [Decouple and Scale Applications Using Amazon SQS and Amazon SNS](https://youtu.be/UesxWuZMZqI)
+  - [SNS vs SQS Comparison? Whats the difference? | Learn with a practical example](https://www.youtube.com/watch?v=mXk0MNjlO7A)
 
 
 ### Trees
