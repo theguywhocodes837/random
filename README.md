@@ -29,6 +29,7 @@
   - [SNS vs SQS Comparison? Whats the difference? | Learn with a practical example](https://www.youtube.com/watch?v=mXk0MNjlO7A)
   - [Best Practices for Serverless Queue Processing - AWS Online Tech Talks](https://www.youtube.com/watch?v=SDAXRKwTQIk)
   - [Application Integration Using Queues and Messages](https://aws.amazon.com/blogs/architecture/application-integration-using-queues-and-messages/)
+  - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
 
 
 ### Trees
