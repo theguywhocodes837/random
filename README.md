@@ -30,6 +30,7 @@
   - [Best Practices for Serverless Queue Processing - AWS Online Tech Talks](https://www.youtube.com/watch?v=SDAXRKwTQIk)
   - [Application Integration Using Queues and Messages](https://aws.amazon.com/blogs/architecture/application-integration-using-queues-and-messages/)
   - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
+  - [AWS Certified Solutions Architect - Associate](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
 
 ### Trees
