@@ -31,6 +31,7 @@
   - [Application Integration Using Queues and Messages](https://aws.amazon.com/blogs/architecture/application-integration-using-queues-and-messages/)
   - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
   - [AWS Certified Solutions Architect - Associate](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+  - [AWS Certified Developer - Associate](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 
 
 ### Trees
