@@ -32,6 +32,7 @@
   - [Database Indexing Explained (with PostgreSQL)](https://www.youtube.com/watch?v=-qNSXK7s7_w)
   - [AWS Certified Solutions Architect - Associate](https://www.youtube.com/watch?v=Ia-UEYYR44s)
   - [AWS Certified Developer - Associate](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+  - [AWS VPC Masterclass Webinar](https://www.youtube.com/watch?v=LX5lHYGFcnA)
 
 
 ### Trees
