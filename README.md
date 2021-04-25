@@ -42,6 +42,8 @@
 
 ### Networking
 
+### Consistent Hashing
+  -[Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 
 ### Trees
   - [Test If A Binary Tree Is Height Balanced](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Balanced Binary Tree - Leetcode](https://leetcode.com/problems/balanced-binary-tree/)
