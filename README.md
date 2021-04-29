@@ -44,6 +44,7 @@
 ### Networking
   - [Technical Discussion on VPNs - How VPNs Work, their benefits, and What happens when VPNs are Hacked](https://www.youtube.com/watch?v=JIA4ca0afnY)
   - [Talking TCP and UDP with Adam Woodbeck:](https://changelog.com/gotime/176)
+  - [Fail-over and High-Availability (Explained by Example)](https://www.youtube.com/watch?v=Zgy1miPsTNs)
 
 ### Consistent Hashing
   - [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
