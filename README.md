@@ -52,8 +52,13 @@
 ### HTTP
   - [HTTP Code 502 Bad Gateway Explained (All its Possible Causes on the Backend)](https://www.youtube.com/watch?v=6NmFI0gULpQ)
 
-### Trees
-  - [Test If A Binary Tree Is Height Balanced](https://www.youtube.com/watch?v=LU4fGD-fgJQ), [Balanced Binary Tree - Leetcode](https://leetcode.com/problems/balanced-binary-tree/)
+### Design patterns to learn
+  - [5 Design Patterns Every Engineer Should Know](https://www.youtube.com/watch?v=FLmBqI3IKMA)
+  - Singleton Pattern
+  - Facade Pattern
+  - Bridge/Adapter Pattern
+  - Strategy Pattern
+  - Observer Pattern (PubSub)
 
 
 # Tools
