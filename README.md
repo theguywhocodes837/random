@@ -59,8 +59,9 @@
   - Bridge/Adapter Pattern
   - Strategy Pattern
   - Observer Pattern (PubSub)
+  - [Python Design Patterns](https://python-patterns.guide/)
 
 
 # Tools
-  - [Loadtest](https://www.npmjs.com/package/loadtest)
+  - [Loadtest](https://python-patterns.guide/)
  
